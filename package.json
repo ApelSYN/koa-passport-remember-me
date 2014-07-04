@@ -1,19 +1,18 @@
 {
   "name": "koa-passport-remember-me",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Remember Me cookie authentication strategy for Koa-Passport.",
   "keywords": ["passport", "cookie", "persistent", "rememberme", "auth", "authn", "authentication"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/koa-passport-remember-me.git"
+    "url": "git://github.com/ApelSYN/koa-passport-remember-me.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/koa-passport-remember-me/issues"
+    "url": "http://github.com/ApelSYN/koa-passport-remember-me/issues"
   },
   "author": {
-    "name": "",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Oleg Cherniy",
+    "email": "oleg.cherniy@gmail.com"
   },
   "licenses": [ {
     "type": "MIT",
