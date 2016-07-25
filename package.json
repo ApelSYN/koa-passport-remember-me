@@ -1,6 +1,6 @@
 {
   "name": "koa-passport-remember-me",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Remember Me cookie authentication strategy for Koa-Passport.",
   "keywords": ["passport", "cookie", "persistent", "rememberme", "auth", "authn", "authentication"],
   "repository": {
@@ -21,7 +21,7 @@
   "main": "./lib",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport": "~0.1.1"
+    "passport": "*"
   },
   "devDependencies": {
     "mocha": "1.x.x",
