@@ -22,6 +22,10 @@ For a complete, working example, refer to the [koa passport example](https://git
 
     $ npm install
     $ make test
+    
+## History
+
+  * v0.1.2 - Fixed a crazy bug with cookie expiration.
 
 ## Credits
 
