@@ -16,7 +16,7 @@ middleware and fix cookies section of [passport-remember-me](https://github.com/
 
 ## Examples
 
-For a complete, working example, refer to the [koa passport example](https://github.com/ApelSYN/koa-passport-example).
+For a complete, working example for koa 2, refer to the [koa passport example](https://github.com/ApelSYN/koa-passport-example).
 
 ## Tests
 
@@ -25,6 +25,7 @@ For a complete, working example, refer to the [koa passport example](https://git
     
 ## History
 
+  * v0.1.3 - Use ES6 Object.assign to options merging. Since it is assumed that the one who uses Koa, uses the latest versions of nodejs :)
   * v0.1.2 - Fixed a crazy bug with cookie expiration.
 
 ## Credits
