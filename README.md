@@ -1,4 +1,4 @@
-# Passport-Remember Me
+# Koa-Passport-Remember Me
 
 [Koa-Passport](https://github.com/rkusa/koa-passport) strategy for authenticating based on a
 remember me cookie.
